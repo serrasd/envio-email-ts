@@ -12,12 +12,12 @@ Para rodar esse projeto, será necessário criar um arquivo com o nome `.env` na
 
 `PASSWD`: senha_de_app (para maior segurança, é recomendado usar uma "senha de app")
 
-Clique aqui para aprender a <a href="https://support.google.com/accounts/answer/185833?hl=pt-BR">como criar uma senha de app?</a>
+Clique aqui para aprender a <a href="https://support.google.com/accounts/answer/185833?hl=pt-BR" target="_blank">como criar uma senha de app?</a>
 
 ## Como Executar
 
 1. Certifique-se de ter o Node.js instalado em sua máquina.
-2. Caso não tenha, instale o Node.js a partir do <a href="https://nodejs.org/pt">site oficial</a>
+2. Caso não tenha, instale o Node.js a partir do <a href="https://nodejs.org/pt" target="_blank">site oficial</a>
 3. Abra o terminal e navegue até o diretório raiz do projeto.
 4. Execute o seguinte comando para instalar as dependências do projeto:
 
